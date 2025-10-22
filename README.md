@@ -104,7 +104,7 @@ The analysis provided clear insights into **Employee performance**, **profitabil
 ## ✅ Conclusion
 The **HR EMPLOYEE ANALYSIS Project** showcases the combined power of **Power BI** and **Excel** for practical business analytics.  
 By integrating clean data models, calculated measures, and visual storytelling, this project helps:
-- Track sales targets vs performance  
+- Track EMPLOYEE TRAININGS vs performance  
 - Identify high-performing segments  
 - Enable data-driven decision-making  
 
