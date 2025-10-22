@@ -112,6 +112,6 @@ By integrating clean data models, calculated measures, and visual storytelling, 
 
 ## 👩‍💻 Author
 **Project Title:** Mini Project – HR EMPLOYEE ANALYSIS  
-**Author:** * S.BHOOPATHIRAJA *
+**Author:** S.BHOOPATHIRAJA 
 **Tools:** Excel | Power BI | DAX  
 **Year:** 2025  
